@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Backend NodeJs",
+        "short_name": "NodeJs"
+    },
+    {
+        "id": 2,
+        "name": "Backend Java",
+        "short_name": "Java"
+    },
+    {
+        "id": 3,
+        "name": "Graphic Design N669",
+        "short_name": "GD669"
+    },
+    {
+        "id": 4,
+        "name": "SMM JH9645",
+        "short_name": "SMM45"
+    },
+    {
+        "id": 5,
+        "name": "8-A sinf kechki",
+        "short_name": "8A"
+    },
+    {
+        "id": 6,
+        "name": "9-B sinf kunduzgi",
+        "short_name": "9B"
+    },
+    {
+        "id": 7,
+        "name": "Ona tili MK-36",
+        "short_name": "MK36"
+    },
+    {
+        "id": 8,
+        "name": "Rus tili jklo-36",
+        "short_name": "36"
+    },
+    {
+        "id": 9,
+        "name": "Dasturlash GO",
+        "short_name": "Go"
+    },
+    {
+        "id": 10,
+        "name": "Mobilografiya",
+        "short_name": "Ma"
+    }
+]

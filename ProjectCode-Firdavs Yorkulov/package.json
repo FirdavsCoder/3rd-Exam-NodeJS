@@ -1,0 +1,20 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "cars warehouse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "car",
+    "user"
+  ],
+  "author": "Kamoliddin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

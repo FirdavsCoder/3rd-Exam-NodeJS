@@ -1,0 +1,79 @@
+[
+    {
+        "id": 2,
+        "first_name": "Firdavs",
+        "last_name": "Yorkulov",
+        "login": "F",
+        "age": 17
+    },
+    {
+        "id": 3,
+        "first_name": "Firdavs",
+        "last_name": "Yorkulov",
+        "login": "FirdavsYorkulov",
+        "age": 45
+    },
+    {
+        "id": 5,
+        "first_name": "John",
+        "last_name": "Doe",
+        "login": "johndoe",
+        "age": 32
+    },
+    {
+        "id": 6,
+        "first_name": "Jonibek",
+        "last_name": "Abdullayev",
+        "login": "JA",
+        "age": 45
+    },
+    {
+        "id": 7,
+        "first_name": "Sitora",
+        "last_name": "Ubaydullayeva",
+        "login": "SU",
+        "age": 25
+    },
+    {
+        "id": 8,
+        "first_name": "Diyorbek",
+        "last_name": "Mamayusupov",
+        "login": "Diyorbek",
+        "age": 17
+    },
+    {
+        "id": 9,
+        "first_name": "Aizbek",
+        "last_name": "Yaxshiboyev",
+        "login": "Azizbek",
+        "age": 17
+    },
+    {
+        "id": 10,
+        "first_name": "Dilshod",
+        "last_name": "Zohidov",
+        "login": "Dilshod",
+        "age": 17
+    },
+    {
+        "id": 11,
+        "first_name": "Doniyor",
+        "last_name": "Mamayusupov",
+        "login": "Doniyor",
+        "age": 17
+    },
+    {
+        "id": 12,
+        "first_name": "Eshmat",
+        "last_name": "Tashmatov",
+        "login": "ET",
+        "age": 65
+    },
+    {
+        "id": 13,
+        "first_name": "Jony",
+        "last_name": "Bek",
+        "login": "JB",
+        "age": 23
+    }
+]
